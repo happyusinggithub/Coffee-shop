@@ -1,0 +1,21 @@
+body { background-color:Cornsilk; }
+h1
+{
+    font-family: BruSh Script MT;
+    text-align: center;
+    font-size:400%;
+}
+h2
+{  
+    font-family: Verdana;
+    text-align: center;
+    font-size:250%;
+    color: red;
+}
+h6,p
+{
+    font-family: Verdana;
+    text-align: center;
+font-size:100%;
+color:black;
+}
